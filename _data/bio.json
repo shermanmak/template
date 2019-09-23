@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sherman Mak",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/sherman_mak.jpg",
+    "email": "smak@hawaii.edu",
+    "phone": "",
+    "website": "https://shermanmak.github.io",
+    "summary": "I am studying for a B.S. in Electrical Engineering at the University of Hawaii. I expect to graduate in Fall 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,42 +17,28 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "shermanmak",
+        "url": "http://github.com/shermanmak"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Control Networks",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Feedback Control Systems",
+        "Power Distribution"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Systems Engineering",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Communications"
       ]
     }
   ],
